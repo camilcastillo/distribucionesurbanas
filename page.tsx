@@ -432,12 +432,12 @@ export default function Home() {
                       Más información
                     </Button>
                     <Link
-                      href="https://wa.me/5491155990242"
+                      href="https://wa.me/5491154267539"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex h-11 items-center justify-center rounded-md bg-white px-8 text-sm font-medium text-[#00303D] shadow transition-colors hover:bg-white/90"
                     >
-                      <MessageSquare className="mr-2 h-4 w-4" aria-hidden="true" /> WhatsApp: 11-5599-0242
+                      <MessageSquare className="mr-2 h-4 w-4" aria-hidden="true" /> WhatsApp: 11-5426-7539
                     </Link>
                   </div>
                 </div>
@@ -474,12 +474,12 @@ export default function Home() {
                       <div>
                         <h3 className="text-lg font-medium text-[#00303D] mb-1">WhatsApp</h3>
                         <Link
-                          href="https://wa.me/5491155990242"
+                          href="https://wa.me/5491154267539"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text-[#ABE13C] hover:underline text-lime-600 underline"
                         >
-                          11-5599-0242 (Ismael Castro)
+                          11-5426-7539 (Ruben Carrizo)
                         </Link>
                       </div>
                     </article>
@@ -558,7 +558,7 @@ export default function Home() {
                 </p>
                 <div className="flex items-center gap-4">
                   <Link
-                    href="https://wa.me/5491155990242"
+                    href="https://wa.me/5491154267539"
                     className="text-gray-300 hover:text-[#ABE13C]"
                     aria-label="WhatsApp"
                     target="_blank"
@@ -659,7 +659,7 @@ export default function Home() {
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <MessageSquare className="h-5 w-5 text-[#ABE13C] mt-0.5" aria-hidden="true" />
-                    <span className="text-gray-300 text-sm">WhatsApp: 11-5599-0242 (Ismael Castro)</span>
+                    <span className="text-gray-300 text-sm">WhatsApp: 11-5426-7539 (Ruben Carrizo)</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <Mail className="h-5 w-5 text-[#ABE13C] mt-0.5" aria-hidden="true" />
@@ -682,11 +682,11 @@ export default function Home() {
 
         <div className="fixed bottom-6 right-6 z-50">
           <a
-            href="https://wa.me/5491155990242"
+            href="https://wa.me/5491154267539"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-[#25D366] hover:bg-[#20BD5C] w-16 h-16 rounded-full flex items-center justify-center shadow-lg transition-all duration-300 hover:scale-110"
-            aria-label="Chat en WhatsApp con Ismael Castro"
+            aria-label="Chat en WhatsApp con Ruben Carrizo"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
